@@ -894,6 +894,9 @@ h4 {
     .text-description-2{
         font-size: 15px;
     }
+    .text-description-3{
+        font-size: 17px;
+    }
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
