@@ -285,6 +285,7 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
+    color: #000000;
 }
 
 .navbar {
@@ -651,7 +652,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    
 }
 
 .container {
@@ -660,6 +661,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    color: #000000;
 }
 
 .hero-bloc-text-sub {
@@ -713,7 +715,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: black!important;
 }
 
 .med-width-whitespace {
@@ -723,11 +725,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: black!important;
 }
 
 h4 {
-    color: #333333!important;
+    color:black!important;
 }
 
 .icons {
@@ -864,6 +866,7 @@ h4 {
 @media (max-width: 991px) {
     .container {
         width: 100%;
+    
     }
     .b-parallax {
         background-attachment: scroll;
