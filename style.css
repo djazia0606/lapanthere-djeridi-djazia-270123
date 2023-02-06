@@ -888,7 +888,12 @@ h4 {
         padding-right: constant(safe-area-inset-right);
     }
 }
-
+    .text-description-1{
+    font-size: 17px;
+}
+    .text-description-2{
+        font-size: 15px;
+    }
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
