@@ -518,7 +518,7 @@ button {
     bottom: 20px;
     right: 20px;
     opacity: 0;
-    z-index: 500;
+    visibility: hidden;
     transition: all .3s ease-in-out;
 }
 
